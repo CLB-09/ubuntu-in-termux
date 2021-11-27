@@ -6,7 +6,7 @@
 This is a script that allows you to install Ubuntu in your termux application without a rooted device
  
 
-**• Updated to ubuntu 20.04**
+**• Updated to ubuntu 27/11/2021**
  
 ## Important
  
@@ -27,3 +27,8 @@ This is a script that allows you to install Ubuntu in your termux application wi
 9. Run the script: `./ubuntu.sh -y`
 10. Now just start ubuntu: `./startubuntu.sh`
  
+## Find Me on :
+[![Github](https://img.shields.io/badge/Github-CLB--09-green?style=for-the-badge&logo=github)](https://github.com/CLB-09)
+[![Instagram](https://img.shields.io/badge/IG-%40a.b_a_s_i_t___a_l_i_y_a_n__h_j-red?style=for-the-badge&logo=instagram)](https://www.instagram.com/a.b_a_s_i_t___a_l_i_y_a_n__h_j)
+[![Messenger](https://img.shields.io/badge/Chat-Messenger-blue?style=for-the-badge&logo=messenger)](https://m.me/A.BASIT.KAMBOH)
+[![SnakeVideo](https://img.shields.io/badge/Snake-Video-blue?style=for-the-badge&logo=Snakevideo)](https://sck.io/u/SP14hNBB)
